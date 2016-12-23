@@ -42,7 +42,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">SketsaBlog.com</div>
-				<small style="margin-left:66%"> Sulistyo Nur Anggoro - <a href="@philtyphils" title="Twitter Owner SketsaBlog.com">@philtyphils</a></small>
+				<small style="margin-left:66%"> Sulistyo Nur Anggoro - <a href="https://goo.gl/Kz4Xd0" target="_blank" title="Twitter Owner SketsaBlog.com -@philtyphils" rel="external nofollow">@philtyphils</a></small>
             </div>
         </div>
     </body>
