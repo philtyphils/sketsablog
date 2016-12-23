@@ -8,7 +8,6 @@
 		<meta name="author" content="Sulistyo Nur Anggoro -@philtyphils">
 		<meta content='https://twitter.com/philtyphils' name='twitter:site'/>
 		<meta content='@philtyphils' name='twitter:creator'/>
-        <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 		
         <style>
             html, body {
