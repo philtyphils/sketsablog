@@ -6,6 +6,8 @@
 		<meta name="description" content="SketsaBlog Under Build. Will be launch soon. ">
 		<meta name="keywords" content="SketsaBlog.com">
 		<meta name="author" content="Sulistyo Nur Anggoro -@philtyphils">
+		<meta content='https://twitter.com/philtyphils' name='twitter:site'/>
+		<meta content='@philtyphils' name='twitter:creator'/>
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 		
         <style>
@@ -42,7 +44,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">SketsaBlog.com</div>
-				<small style="margin-left:66%"> Sulistyo Nur Anggoro - <a href="https://goo.gl/Kz4Xd0" target="_blank" title="Twitter Owner SketsaBlog.com -@philtyphils" rel="external nofollow">@philtyphils</a></small>
+				<small style="margin-left:66%"> Sulistyo Nur Anggoro -<a href="https://goo.gl/Kz4Xd0" target="_blank" title="Twitter Owner SketsaBlog.com -@philtyphils" rel="external nofollow">@philtyphils</a></small>
             </div>
         </div>
     </body>
